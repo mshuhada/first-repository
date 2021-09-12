@@ -8,14 +8,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String nama = "Budi";
+       boolean budi = true;
+       boolean andi = false;
 
-        System.out.println(nama);
+       System.out.println(budi);
+       System.out.println(andi);
 
-        nama = "Tarmanto";
-        System.out.println(nama);
-
-        nama = "Santi";
-        System.out.println(nama);
     }
 }
