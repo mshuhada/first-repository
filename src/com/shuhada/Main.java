@@ -9,10 +9,10 @@ public class Main {
     public static void main(String[] args) {
 
        boolean budi = true;
-       boolean andi = false;
+
 
        System.out.println(budi);
-       System.out.println(andi);
+       System.out.println(!budi);
 
     }
 }
